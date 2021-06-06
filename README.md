@@ -1,4 +1,3 @@
-![](logo.png)
 ### Hi, I'm Sean
 <!--
 **seanyoung247/seanyoung247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
