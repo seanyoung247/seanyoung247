@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 250.5">
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="bottom">
+      <path class="s-logo" d="M112.5,0s5.37,12,12,12h101c6.63,0,12,5.37,12,12V100c0,6.63-5.37,12-12,12H24.5c-6.63,0-12-5.37-12-12V.5L112.5,0Z"/>
+      <path class="y-logo" d="M0,138H225c6.9,0,12.5,5.6,12.5,12.5v75c0,6.9-5.6,12.5-12.5,12.5H0c.5-100,0-100,0-100Z"/>
+    </g>
+  </g>
+</svg>
